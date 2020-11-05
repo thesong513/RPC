@@ -12,6 +12,7 @@
         <module>rpc-server</module>
         <module>rpc-client</module>
         <module>rpc-api</module>
+        <module>socket-rpc</module>
     </modules>
 
 
